@@ -1,0 +1,1 @@
+# Alexnet_model_for_Xray_image
